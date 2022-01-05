@@ -1,0 +1,32 @@
+[15736:10544:0929/133432.936:INFO:CONSOLE(4279)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/d40906f2/jsbin/desktop_polymer.vflset/desktop_polymer.js (4279)
+[15736:10544:0929/133436.933:INFO:CONSOLE(0)] "The resource https://r8---sn-5np5po4v-c33ek.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=aHku2K9G89M (0)
+[15736:10544:0929/133436.933:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=aHku2K9G89M (0)
+[15736:10544:0929/133436.934:INFO:CONSOLE(0)] "The resource https://r8---sn-5np5po4v-c33ek.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=aHku2K9G89M (0)
+[15736:1364:0929/133438.671:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[15736:1364:0929/133438.672:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+[15736:10544:0929/133438.672:ERROR:device_event_log_impl.cc(214)] [13:34:38.673] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+[15736:1364:0929/133438.673:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[15736:1364:0929/133438.702:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+[7268:16980:0929/133441.276:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[7268:16980:0929/133441.277:ERROR:cache_util.cc(144)] Unable to move cache folder D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\GPUCache to D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\old_GPUCache_000
+[7268:16980:0929/133441.277:ERROR:disk_cache.cc(184)] Unable to create cache
+[7268:16980:0929/133441.278:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[9036:17288:0929/133519.537:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[9036:17288:0929/133519.538:ERROR:cache_util.cc(144)] Unable to move cache folder D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\GPUCache to D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\old_GPUCache_000
+[9036:17288:0929/133519.538:ERROR:disk_cache.cc(184)] Unable to create cache
+[9036:17288:0929/133519.539:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[13088:14856:0929/133607.789:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[13088:14856:0929/133607.790:ERROR:cache_util.cc(144)] Unable to move cache folder D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\GPUCache to D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\old_GPUCache_000
+[13088:14856:0929/133607.791:ERROR:disk_cache.cc(184)] Unable to create cache
+[13088:14856:0929/133607.791:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[15804:17208:0929/133611.766:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[15804:17208:0929/133611.767:ERROR:cache_util.cc(144)] Unable to move cache folder D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\GPUCache to D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\old_GPUCache_000
+[15804:17208:0929/133611.768:ERROR:disk_cache.cc(184)] Unable to create cache
+[15804:17208:0929/133611.768:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[2044:14560:0929/133626.018:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[2044:14560:0929/133626.020:ERROR:cache_util.cc(144)] Unable to move cache folder D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\GPUCache to D:\RandD\noodang\noodang_rev6\ChromeProflie\ShaderCache\old_GPUCache_000
+[2044:14560:0929/133626.020:ERROR:disk_cache.cc(184)] Unable to create cache
+[2044:14560:0929/133626.021:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+[15736:10544:0929/135734.043:ERROR:device_event_log_impl.cc(214)] [13:57:34.038] USB: usb_service_win.cc:258 Failed to get device driver name: Element not found. (0x490)
+[15736:10544:0929/135750.029:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

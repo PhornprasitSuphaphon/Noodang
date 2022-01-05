@@ -1,0 +1,13 @@
+#canvas {
+    position: absolute;
+    top: 46vw;
+    left: 35vw;
+    transform: translateY(-50%);
+    width: 30vw;
+    height: 5vw;
+    z-index: 4;
+}
+
+.dg {
+    display: none;
+}
